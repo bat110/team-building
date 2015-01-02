@@ -1,0 +1,45 @@
+목록
+
+1. 일반
+드라이버
+크롬브라우저
+오피스
+프린터 설정
+
+
+2. 개발
+git
+Xshell5
+Xfpt5
+jdk 1.7
+sublimetext2
+- 
+
+sts
+- 초기설정
+http://www.slipp.net/wiki/pages/viewpage.action?pageId=5177633
+- Eclipse marketplace
+color theme
+path tools
+
+
+maven
+tomcat7
+
+mysql5.6
+- 설치 : http://blog.daum.net/bang2001/91
+- my-default.ini 수정
+ basedir = C:/mysql-5.6.22-winx64/
+ datadir = C:/mysql-5.6.22-winx64/data/
+ port = 3306
+- Window에 MySQL을 서비스로 등록시 : mysqld --install
+- Window에 등록된 MySQL 서비스를 삭제시 : mysqld --remove
+- MySQL 기동명령어 : net start mysql
+- MySQL 중지명령어 : net stop mysql
+
+sqlyog
+- https://code.google.com/p/sqlyog/wiki/Downloads
+
+3. 기타
+virturebox
+
